@@ -1,0 +1,4 @@
+6 eh divisivel por 2 e 3
+12 eh divisivel por 2 e 3
+18 eh divisivel por 2 e 3
+24 eh divisivel por 2 e 3

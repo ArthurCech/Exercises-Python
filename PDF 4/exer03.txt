@@ -1,0 +1,2 @@
+Menor valor = 0.0
+Maior valor = 10.0

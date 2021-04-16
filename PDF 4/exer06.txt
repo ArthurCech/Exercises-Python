@@ -1,0 +1,1 @@
+Soma dos pares entre 1 e 300 = 22650
