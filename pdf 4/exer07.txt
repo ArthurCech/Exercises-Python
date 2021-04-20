@@ -1,0 +1,5 @@
+Maior valor = 21
+Menor valor = 1
+Quantidade de valores = 11
+Soma dos valores = 121
+Media = 11.0
