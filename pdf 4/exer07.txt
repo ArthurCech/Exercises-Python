@@ -1,0 +1,5 @@
+Maior valor = 1000
+Menor valor = 100
+Quantidade de valores = 10
+Soma dos valores = 5500
+Media = 550.0

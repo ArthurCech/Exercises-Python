@@ -1,0 +1,8 @@
+2 é um número primo
+3 é um número primo
+4 não é um número primo
+5 é um número primo
+6 não é um número primo
+7 é um número primo
+8 não é um número primo
+9 não é um número primo
