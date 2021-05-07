@@ -1,2 +1,0 @@
-maior valor = 5.0
-menor valor = 1.0

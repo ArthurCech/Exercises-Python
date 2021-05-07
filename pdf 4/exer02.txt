@@ -1,5 +1,0 @@
-20 é divisível por 5
-25 é divisível por 5
-30 é divisível por 5
-35 é divisível por 5
-40 é divisível por 5
