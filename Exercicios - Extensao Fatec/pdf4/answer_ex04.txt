@@ -1,0 +1,2 @@
+Maior valor digitado: 6.0
+Menor valor digitado: 1.0

@@ -1,0 +1,1 @@
+Soma dos valores pares que estão entre 1 e 101 = 2550
